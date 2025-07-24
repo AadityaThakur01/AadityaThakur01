@@ -1,5 +1,5 @@
 #  Hi , I'm Aaditya Thakur
-**A passionate Software Engineer || Web Developer ||**
+**A passionate Software Engineer || Web Development || Artificial Intelligence || Machine Learning ||**
 
 Email Me 👉 ✉️ **taaditya2003@gmail.com** For Collaboration/Project or Anything Else.
 
