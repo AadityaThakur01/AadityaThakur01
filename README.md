@@ -1,12 +1,13 @@
 # 👋 Hi there, I'm Aaditya Thakur
 
+
+
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+%7C%7C+Full+Stack+Developer;AI%2FML+Enthusiast+%7C%7C+Innovation+Explorer;Building+Tomorrow's+Technology+Today)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Universe&fontSize=40&fontAlignY=32&desc=Where%20Code%20Meets%20Innovation&descAlignY=51&descAlign=50" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+%7C%7C+Full+Stack+Developer;AI%2FML+Enthusiast+%7C%7C+Innovation+Explorer)](https://git.io/typing-svg)
 
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AadityaThakur01&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views" />
@@ -16,7 +17,12 @@
 
 ---
 
+
+<br>
+
 ## 🚀 About Me
+
+<br>
 
 ```typescript
 const aaditya = {
@@ -31,7 +37,11 @@ const aaditya = {
 };
 ```
 
+<br><br>
+
 ## 🌐 Let's Connect!
+
+<br>
 
 <div align="center">
 
@@ -42,11 +52,20 @@ const aaditya = {
 
 </div>
 
+<br><br><br>
+
 ---
+
+<br>
 
 ## 🛠️ Technology Arsenal
 
+<br>
+
 ### Programming Languages
+
+<br>
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -57,7 +76,12 @@ const aaditya = {
 
 </div>
 
+<br><br>
+
 ### Frontend Development
+
+<br>
+
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -69,7 +93,12 @@ const aaditya = {
 
 </div>
 
+<br><br>
+
 ### Backend & Database
+
+<br>
+
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -80,7 +109,12 @@ const aaditya = {
 
 </div>
 
+<br><br>
+
 ### AI/ML & Data Science
+
+<br>
+
 <div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -91,7 +125,12 @@ const aaditya = {
 
 </div>
 
+<br><br>
+
 ### Tools & Technologies
+
+<br>
+
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
@@ -102,128 +141,83 @@ const aaditya = {
 
 </div>
 
----
-
-## 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AadityaThakur01&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=6)
-
-</div>
+<br><br><br>
 
 ---
+
+<br>
 
 ## 📊 GitHub Analytics Dashboard
 
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AadityaThakur01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="GitHub Stats"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaThakur01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages"/>
-  
-</div>
+<br>
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com/?user=AadityaThakur01&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AadityaThakur01&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Aaditya's GitHub Stats"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaThakur01&layout=compact&langs_count=7&theme=radical" alt="Aaditya's Top Languages"/>
   
 </div>
 
-### 📈 Activity Graph
+<br><br>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AadityaThakur01&theme=radical&hide_border=true" alt="Aaditya's GitHub Streak" />
+  
+</div>
+
+<br><br>
+
+### 📈 Contribution Activity Graph
+
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AadityaThakur01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF006E" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AadityaThakur01&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Aaditya's GitHub Activity Graph" />
 
 </div>
+
+<br><br><br>
 
 ---
 
-## 🐍 Snake Animation
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AadityaThakur01/AadityaThakur01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AadityaThakur01/AadityaThakur01/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AadityaThakur01/AadityaThakur01/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-### 🎮 Snake Animation Setup
-
-To enable the snake animation, create `.github/workflows/snake.yml` in your profile repository:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: AadityaThakur01
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push Snake
-        uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
+<br>
 
 ## 💭 Random Developer Quote
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
-</div>
-
----
-
-## 🔥 Featured Projects
+<br>
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|---------|
-| 🚀 **AI Task Optimizer** | ML-powered task management system | Python, TensorFlow, React | 🚧 In Progress |
-| 🌐 **Full Stack E-Commerce** | Complete e-commerce solution | Next.js, Node.js, MongoDB | ✅ Live |
-| 🤖 **Chatbot Framework** | Customizable AI chatbot platform | Python, NLP, FastAPI | 🚧 In Progress |
-| 📱 **Mobile Banking App** | Secure banking mobile application | React Native, Firebase | 📋 Planning |
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote" />
 
 </div>
 
+<br><br><br>
+
 ---
 
-## 🎯 2024 Goals & Progress
+<br>
+
+## 🎯 2025 Goals & Progress
+
+<br>
 
 - [x] Master Advanced React Patterns (90% Complete)
-- [x] Contribute to 5+ Open Source Projects (8/10 Complete)
+- [x] Contribute to 5+ Open Source Projects (8/10 Complete)  
 - [ ] Build 3 Full-Stack Applications (2/3 Complete)
 - [ ] Learn Cloud Architecture (AWS/Azure) (60% Complete)
 - [ ] Master Advanced ML Algorithms (40% Complete)
 - [ ] Mentor 5+ Junior Developers (3/5 Complete)
 - [ ] Write 10 Technical Blog Posts (6/10 Complete)
 
----
+<br><br>
 
 ## 📊 Weekly Development Breakdown
+
+<br>
 
 ```text
 TypeScript   12 hrs 30 mins  ████████████████████░   80.2%
@@ -232,19 +226,15 @@ CSS           45 mins        ██░░░░░░░░░░░░░░░
 Other         5 mins         ░░░░░░░░░░░░░░░░░░░░░    0.5%
 ```
 
----
-
-## 🎖️ Achievements & Certifications
-
-- 🏆 **GitHub Arctic Code Vault Contributor**
-- 🥇 **AWS Cloud Practitioner Certified**
-- 🥈 **Google Analytics Certified**
-- 🥉 **Microsoft Azure Fundamentals**
-- ⭐ **Open Source Contributor (100+ contributions)**
+<br><br><br>
 
 ---
+
+<br>
 
 ## 📫 Collaboration Opportunities
+
+<br>
 
 I'm always excited to collaborate on:
 
@@ -254,36 +244,37 @@ I'm always excited to collaborate on:
 **📱 Mobile App Development** - Creating impactful mobile solutions  
 **🎯 Startup Ventures** - Turning ideas into reality  
 
----
-
-## 📈 GitHub Metrics
-
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/AadityaThakur01?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata)
-
-</div>
+<br><br><br>
 
 ---
+
+<br>
 
 ## 🎵 Currently Listening To
 
+<br>
+
 <div align="center">
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 
 </div>
 
+<br><br><br>
+
 ---
+
+<br>
 
 <div align="center">
 
 **"The best error message is the one that never shows up."** – Thomas Fuchs
 
-<img src="https://komarev.com/ghpvc/?username=AadityaThakur01&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 ⭐ **Star my repositories if you find them helpful!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=42&fontAlign=50&fontAlignY=65&desc=Thanks%20for%20visiting!%20Let%27s%20connect%20and%20build%20amazing%20things%20together!&descAlign=50&descAlignY=85" />
+<br><br>
+
+### Thank you for visiting! Let's connect and build amazing things together! 🚀
 
 </div>
