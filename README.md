@@ -256,7 +256,7 @@ I'm always excited to collaborate on:
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/3ehfnx1ekdb0efhyzg27jbvd9)
 
 </div>
 
